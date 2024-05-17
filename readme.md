@@ -11,8 +11,3 @@
 <h3 align="center">
 Please leave a ⭐  if you like it
 </h3>
-
-## [A complete installation and usage guide](https://liljaba1337.gitbook.io/untitled/)
-
-
-<a href="https://discord.gg/krMFTdSafD"><img src="https://discordapp.com/api/guilds/1227667638742683729/widget.png?style=banner2"></a>
