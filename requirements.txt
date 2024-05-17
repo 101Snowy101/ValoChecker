@@ -1,0 +1,8 @@
+urllib3
+requests
+colorama
+keyboard
+InquirerPy
+aiohttp
+clear
+pywin32
